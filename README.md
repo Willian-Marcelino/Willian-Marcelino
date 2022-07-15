@@ -6,7 +6,7 @@
 ## Olá 👋
 
 Amante de tecnologia e apaixonado por conhecimento.
-Sou novo no mundo da programção, a cada projeto vou ampliando meus horizontes.
+Sou novo no mundo da programação, a cada projeto vou ampliando meus horizontes.
 
 
 
